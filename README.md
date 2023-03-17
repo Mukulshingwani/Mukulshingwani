@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mukulshingwani.github.io/](https://mukulshingwani.github.io/)
 
-- 💬 Ask me about **DSA, Machine Learning**
+- 💬 Ask me about **CS Fundamentals, ML-DL, DSA**
 
 - 📫 How to reach me **shingwani.1@iitj.ac.in**
 
