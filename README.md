@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulshingwani&label=Profile%20views&color=0e75b6&style=flat" alt="mukulshingwani" /> </p>
 
 
-
-- 🌱 I’m currently learning **system design**
-
 - 👨‍💻 All of my projects are available at [https://mukulshingwani.github.io/](https://mukulshingwani.github.io/)
 
 - 💬 Ask me about **CS Fundamentals, ML-DL, DSA**
